@@ -5,9 +5,9 @@ https://github.com/ivanrweb/ivanrogulj.com/
 
 This is a personal portfolio focused on audio programming — browser-based synthesizers, guitar effects, JUCE plugins, and music tools built with modern web technologies.
 
-Also available at **[soundionic.com](https://soundionic.com)** — a dedicated space for all my audio projects, accessible as a standalone brand separate from the personal portfolio.
+Live at **[ivanrogulj.com](https://ivanrogulj.com)**
 
-Live at **[ivanrogulj.com](https://ivanrogulj.com)** · **[soundionic.com](https://soundionic.com)**
+Also available at **[soundionic.com](https://soundionic.com)** — a dedicated space for all my audio projects, accessible as a standalone brand separate from the personal portfolio.
 
 ---
 
